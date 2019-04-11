@@ -1,0 +1,12 @@
+[submodule "Angular_Exercice_Blog"]
+	path = Angular_Exercice_Blog
+	url = https://github.com/jmarvillier/Angular_Exercice_Blog.git
+	branch = master
+[submodule "Angular_Learning_Books"]
+	path = Angular_Learning_Books
+	url = https://github.com/jmarvillier/Angular_Learning_Books.git
+	branch = master
+[submodule "Angular_Learning_Appareils"]
+	path = Angular_Learning_Appareils
+	url = https://github.com/jmarvillier/Angular_Learning_Appareils.git
+	branch = master
